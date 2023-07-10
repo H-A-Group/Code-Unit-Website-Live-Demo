@@ -41671,7 +41671,7 @@ A.Zn.prototype={
 $0(){},
 $S:0}
 A.Gn.prototype={
-J(a){var s,r,q,p=null,o="assets/images/marketing-creative-collage-with-phone-preview.png",n=t.w,m=A.an(p,A.t(a,p,n).w.a.b*0.02,p),l=A.t(a,p,n).w
+J(a){var s,r,q,p=null,o="assets/images/marketing-creative-collage-with-phone-preview.png",n=t.w,m=A.an(p,A.t(a,p,n).w.a.b*0.045,p),l=A.t(a,p,n).w
 l=A.dR(p,p,B.o,p,p,B.yB,p,A.t(a,p,n).w.a.b*0.5,p,p,p,p,l.a.a*0.85)
 s=A.t(a,p,n).w
 r=t.p
@@ -41681,7 +41681,7 @@ l=A.cl(A.a([m,s,new A.br(new A.aq(l,0,l,0),A.cl(A.a([A.jF(B.QB,B.aB),A.an(p,A.t(
 s=A.t(a,p,n).w
 m=A.t(a,p,n).w
 q=A.fh(30)
-return A.qV(A.m6(B.d6,A.a([A.dR(p,A.cl(A.a([A.jF(A.an(B.Qh,p,A.t(a,p,n).w.a.a*0.4),B.aB),A.an(p,A.t(a,p,n).w.a.b*0.01,p),A.jF(A.an(B.Qr,p,A.t(a,p,n).w.a.a*0.4),B.aS),A.an(p,A.t(a,p,n).w.a.b*0.03,p),A.jF(B.dr,B.ca)],r),B.as,B.bl,B.y),B.o,p,p,new A.bY(p,p,p,q,p,B.m5,B.W),p,m.a.b*0.6,p,B.lw,p,p,s.a.a*0.87),A.qI(-60,A.amn(A.nx(o,p,B.da,A.t(a,p,n).w.a.b*0.73,A.t(a,p,n).w.a.a*0.31),B.dt),p,p,p,10,p,p)],r),B.o,B.c1),l)}}
+return A.qV(A.m6(B.d6,A.a([A.dR(p,A.cl(A.a([A.jF(A.an(B.Qh,p,A.t(a,p,n).w.a.a*0.4),B.aB),A.an(p,A.t(a,p,n).w.a.b*0.01,p),A.jF(A.an(B.Qr,p,A.t(a,p,n).w.a.a*0.4),B.aS),A.an(p,A.t(a,p,n).w.a.b*0.03,p),A.jF(B.dr,B.ca)],r),B.as,B.bl,B.y),B.o,p,p,new A.bY(p,p,p,q,p,B.m5,B.W),p,m.a.b*0.6,p,B.lw,p,p,s.a.a*0.87),A.qI(-50,A.amn(A.nx(o,p,B.da,A.t(a,p,n).w.a.b*0.73,A.t(a,p,n).w.a.a*0.31),B.dt),p,p,p,10,p,p)],r),B.o,B.c1),l)}}
 A.vE.prototype={
 ai(){var s=t.N
 return new A.NK(A.a([A.am(["image","assets/icons/e-commerce.png","industryName","Retail, E-commerce"],s,s),A.am(["image","assets/icons/homework.png","industryName","Education & e-learning"],s,s),A.am(["image","assets/icons/better-health.png","industryName","Healthcare & Fitness"],s,s),A.am(["image","assets/icons/logistics.png","industryName","Logistics & Distribution"],s,s),A.am(["image","assets/icons/connection.png","industryName","Social Networking"],s,s),A.am(["image","assets/icons/house.png","industryName","Real Estate"],s,s),A.am(["image","assets/icons/airplane.png","industryName","Travel & Hospitality"],s,s),A.am(["image","assets/icons/order.png","industryName","Food & Restaurant"],s,s),A.am(["image","assets/icons/problem-solve.png","industryName","On-Demand Solutions"],s,s),A.am(["image","assets/icons/virtual-space.png","industryName","Gaming"],s,s)],t.SN),B.k)}}
